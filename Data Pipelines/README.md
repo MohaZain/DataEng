@@ -9,7 +9,7 @@ A music streaming startup, Sparkify, has grown their user base and song database
 In this project, I build ETL Pipeline project, using more automated and better monitored pipelines, primarily through Apache Airflow. 
 The pipeline Extract data from (S3) Bucket into AWS Redshift data warehouses 
 
-## DAG
+## DAGs
 <img src="./img/dag.png" alt="flow of tasks" width="750" title="flow of tasks" />
 
 ## Data
