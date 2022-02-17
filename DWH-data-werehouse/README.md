@@ -1,4 +1,4 @@
-# Data Modeling with Postgres
+# Cloud Data Warehouses
 -----
 
 ## Introduction
